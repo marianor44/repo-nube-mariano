@@ -1,2 +1,1 @@
-# repo-nube-mariano
-es un repositorio en prueba para cargar repo
+este proyecto es una prubea de como crear un rep y clonarlo desde githube a mi computadora.
